@@ -1,0 +1,1 @@
+<view class="content"><parent vue-id="697e7c48-1" bind:__l="__l" vue-slots="{{['default']}}"><child vue-id="{{('697e7c48-2')+','+('697e7c48-1')}}" bind:__l="__l"></child></parent></view>

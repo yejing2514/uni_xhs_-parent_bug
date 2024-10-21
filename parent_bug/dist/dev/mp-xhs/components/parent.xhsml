@@ -1,0 +1,1 @@
+<view>我是父组件<slot></slot></view>

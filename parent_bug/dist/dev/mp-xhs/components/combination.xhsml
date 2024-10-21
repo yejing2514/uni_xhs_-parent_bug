@@ -1,0 +1,1 @@
+<view>我是内部组件未使用slot<child1 vue-id="0875e4c0-1" bind:__l="__l"></child1></view>

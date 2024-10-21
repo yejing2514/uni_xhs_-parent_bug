@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "uni-app",
+  "usingComponents": {
+    "parent": "/components/parent",
+    "child": "/components/child"
+  }
+}
